@@ -1,0 +1,9 @@
+data/
+ cur_i 当前爬的id
+ item 待爬的item
+ info 爬到的info
+ info_all 爬到的所有info，没有去重
+ uid poi的id
+ uid_all 所有的poi的id，没有去重，对应于info_all
+
+ info_p 解析出经纬度的最后完整info
